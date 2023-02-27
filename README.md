@@ -1,4 +1,4 @@
-# WANNACRY-REPORT-TCMSEC-2023
+# WANNACRY-REPORT-TCMSEC
 <img src="x32dbg_pic.png">
 
 ## Summary:
@@ -23,6 +23,6 @@
 ### Advance Dynamic Analysis:
 - x32dbg
 
- 
-
+### Date Completed:
+2/28/2023
  
