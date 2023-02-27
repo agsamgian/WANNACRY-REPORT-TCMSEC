@@ -1,5 +1,5 @@
 # WANNACRY-REPORT-TCMSEC
-<img src="x32dbg_pic.png">
+<img src="wannacry_pic.png">
 
 ## Summary:
 
