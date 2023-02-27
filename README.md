@@ -1,4 +1,4 @@
-# WANNACRY-REPORT-TCMSEC
+# WANNACRY-REPORT-TCMSEC-2023
 <img src="x32dbg_pic.png">
 
 ## Summary:
