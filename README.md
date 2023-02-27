@@ -1,5 +1,5 @@
 # WANNACRY-REPORT-TCMSEC
-<img src="wannacry_pic.png">
+<img src="wanna_cry.png">
 
 ## Summary:
 
